@@ -1,8 +1,2 @@
 Lets plan a trip to mars 2
-Hweiee new line
-change again
-change 3rd line 4th line deleted
-hello this is megan on mars
-shorter number string c3b4448c9fb001
-beep boop aliens r here
-waaaaaaaaaaaaaaaaaa
+I made this change on R Studio
